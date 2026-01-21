@@ -15,13 +15,60 @@
 
 /* Deklaration + Wertzuweisung I */
 
-// let firstName; // Deklaration (Definition)
-// console.log(firstName); // Ausgabe
-// firstName = "Max"; // Wertzuweisung | assignment
-// console.log(firstName);  // Ausgabe
-// let familyName = "Mütze"; // Deklaration + Wertzuweisung
-// console.log("Hi, ich bin " + firstName + " " + familyName + "!");  // Ausgabe
+//let firstName; // Deklaration (Definition)
+//console.log(firstName) // Ausgabe
+//firstName = "Max"; // Wertzuweisung / assignment
+//console.log(firstName); // Ausgabe
+//let familyName = "Mütze"; // Deklaration + Wertzuweisung
+//console.log("Hi, ich bin " + firstName + " " + familyName + "!"); // Ausgabe
 
+
+/*  
+    Wertzuweisung II + Datentypen 
+    JS ist eine untypisierte Sprache!
+*/
+
+
+
+//let tets; // Deklaration
+
+//console.log("Datentyp: " + typeof test); // Ausgabe Datentyp
+//console.log
+//console.log
+
+
+/* Variablen vs. Konstanten in JS */;
+
+// Variable
+//let test; // Variable : Deklaration
+//test = "hi"; // Wertzuweisung (Initialisiereung)
+//test = "hello"; // Überschreiben
+//console.log("Inhalt: " + test); // Ausgabe
+
+
+
+
+
+// let test; // Deklarartion
+
+// console.log("Datentyp: " + typeof test); // Ausgabe Datentyp
+// console.log("Inhalt: " + test); // Ausgabe Inhalt
+// console.log("----------------")
+
+// test = "hi"; // string
+// console.log("Datentyp: " + typeof test); // Ausgabe Datentyp
+// console.log("Inhalt: " + test); // Ausgabe Inhalt
+// console.log("----------------")
+
+// test = 2; // number
+// console.log("Datentyp: " + typeof test); // Ausgabe Datentyp
+// console.log("Inhalt: " + test); // Ausgabe Inhalt
+// console.log("----------------")
+
+// test = true; // boolean
+// console.log("Datentyp: " + typeof test); // Ausgabe Datentyp
+// console.log("Inhalt: " + test); // Ausgabe Inhalt
+// console.log("----------------")
 
 /*  
     Wertzuweisung II + Datentypen 
